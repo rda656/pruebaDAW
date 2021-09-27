@@ -7,7 +7,7 @@ package pruebadaw;
 
 /**
  *
- * @author AntonioJesusRamos
+ * @author Antonio Ramos
  */
 public class ClasePrincipal {
 
